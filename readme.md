@@ -10,7 +10,7 @@ This repository is for instructors teaching Microsoft courses. If you are in cla
 
 ## Security Issue - April 2023
 
-Effective immediately, the Admin password will be removed from the JSON template parameter files. This means students will have to provide a password when the template is deployed. This effects Labs 4, 5, 6, 7, 10 and 11.  The lab instructions will be changed to reflect this change. 
+Effective immediately, the Admin password will be removed from the JSON template parameter files. This means students will have to provide a password when the template is deployed. This effects Labs 4, 5, 6, 7, 10 and 11.  The lab  will be changed to reflect this change. 
 
 ## What are we doing?
 
